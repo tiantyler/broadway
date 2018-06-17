@@ -1,0 +1,53 @@
+body {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+.lan {
+  background-image: url(file:///Users/TNT/CDMY-Projects/Broadway/resources/images/the-flatiron-building.png);
+  background-size: cover;
+  height: 300px;
+  font-size: 18px;
+  color: white;
+}
+
+.design {
+background-image: url(file:///Users/TNT/CDMY-Projects/Broadway/resources/images/the-flatiron-building.png);
+background-size: cover;
+height: 30px;
+font-size: 23px;
+font-weight: bold;
+color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+
+.link {
+  color: white;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
